@@ -1,0 +1,12 @@
+name = OFC Contact
+description = Contact form and context
+core = 7.x
+package = One Fewer Car
+dependencies[] = boxes
+dependencies[] = context
+dependencies[] = ctools
+features[box][] = also_on
+features[context][] = contact-blocks
+features[ctools][] = boxes:box:1
+features[ctools][] = context:context:3
+features[features_api][] = api:1
