@@ -2,6 +2,7 @@ name = OFC Contact
 description = Contact form and context
 core = 7.x
 package = One Fewer Car
+php = 5.2.4
 dependencies[] = boxes
 dependencies[] = context
 dependencies[] = ctools

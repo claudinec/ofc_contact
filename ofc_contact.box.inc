@@ -20,8 +20,8 @@ function ofc_contact_default_box() {
   $box->options = array(
     'body' => array(
       'value' => '- [Twitter](https://twitter.com/claudinec)
-- Facebook
-- Google+
+- [Facebook](https://www.facebook.com/claudine.chionh)
+- [Google+](http://gplus.to/claudinec)
 - [LinkedIn](http://au.linkedin.com/in/claudinec/)
 ',
       'format' => '3',
