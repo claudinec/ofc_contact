@@ -7,6 +7,7 @@ dependencies[] = boxes
 dependencies[] = context
 dependencies[] = ctools
 features[box][] = also_on
+features[box][] = phone
 features[context][] = contact-blocks
 features[ctools][] = boxes:box:1
 features[ctools][] = context:context:3
